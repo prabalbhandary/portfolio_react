@@ -81,8 +81,7 @@ const Navbar = () => {
           </div>
         </div>
       </nav>
-      {/* Add padding to ensure content below the navbar doesn't overlap */}
-      <div className="pt-20">
+      <div className="bg-gray-100 dark:bg-gray-800">
         {/* Rest of your content goes here */}
       </div>
     </>
